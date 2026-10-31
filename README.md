@@ -54,4 +54,5 @@ science.
 ## Connect
 
 -   **GitHub:** [MohammedAsif1231](https://github.com/MohammedAsif1231)
--   **LinkedIn:** Add your LinkedIn profile URL here
+-   **LinkedIn:** www.linkedin.com/in/mohammad-asif-511647366
+
